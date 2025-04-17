@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# task-management-system
-=======
 # Task Management System
 
 간단한 태스크 관리 시스템입니다. 사용자가 태스크를 생성, 조회, 수정, 삭제할 수 있습니다.
